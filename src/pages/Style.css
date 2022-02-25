@@ -1,0 +1,40 @@
+.carde {
+    background-color: rgba(209, 243, 255, 0.329);
+}
+
+.icon {
+    float: left;
+    font-size: "120px";
+}
+
+.Titre {
+    margin-left: 5%;
+    font-size: 25px;
+    font-family: cursive;
+    color: rgb(0, 0, 0);
+}
+.Titre2{
+    margin-left: 5%;
+    font-size: 25px;
+    font-family: cursive;
+    text-shadow: rgb(0, 0, 0) 5px 0 20px;
+    color: rgb(0, 0, 0);
+}
+
+.buttonLogin {
+    color: rgb(255, 255, 255);  
+    font-family: cursive;
+    border-radius: 50%;
+}
+.Success{
+    border-radius: 9%;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    padding-left: 26%;
+    padding-top: 1%;
+    background-color:rgb(100, 206, 224);
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 50px;
+    font-family: cursive;
+}
